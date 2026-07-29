@@ -5,3 +5,28 @@ Nele, apresento um passo a passo para a instalação do VirtualBox 7.2.8 nos sis
 Como forma de validar o funcionamento do ambiente virtual, também demonstro a criação de uma máquina virtual utilizando o sistema operacional Linux Debian 13.
 
 Espero, sinceramente, que este material seja útil para você ou para alguém que possa se beneficiar dele.
+
+
+Estou disponibilizando também nos links listados abaixo:
+
+
+Links para baixar pelo Google drives :
+**************************************
+Versão em pdf --> https://drive.google.com/file/d/1nkXI-tZ3lSps6o61vioc5E7V39CBC38A/view
+
+
+
+Links para baixar pelo crabgrass do riseup :
+********************************************
+Versão em pdf --> https://crabgrass.riseup.net/assets/992482/Manual+de+instala%C3%A7%C3%A3o+do+VirtualBox+para+Windows+10+e+11+%281%29.pdf
+
+
+
+Links para baixar pelo zenodo :
+*******************************
+Versão em pdf --> https://zenodo.org/records/21629119
+
+
+Link para baixar no Internet Achive :
+*************************************
+Versão em pdf --> https://archive.org/details/manual-de-instalacao-do-virtual-box-windows-11-congelada-1-1/mode/2up
