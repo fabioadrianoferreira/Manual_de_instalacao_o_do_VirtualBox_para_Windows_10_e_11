@@ -6,7 +6,7 @@ Como forma de validar o funcionamento do ambiente virtual, também demonstro a c
 
 Espero, sinceramente, que este material seja útil para você ou para alguém que possa se beneficiar dele.
 
-“O conhecimento, quando não humaniza, deprava."
+"O conhecimento, quando não humaniza, deprava."
 
 Estou disponibilizando também nos links listados abaixo:
 
