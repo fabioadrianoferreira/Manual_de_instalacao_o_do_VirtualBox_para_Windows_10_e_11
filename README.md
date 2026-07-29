@@ -4,7 +4,14 @@ Nele, apresento um passo a passo para a instalação do VirtualBox 7.2.8 nos sis
 
 Como forma de validar o funcionamento do ambiente virtual, também demonstro a criação de uma máquina virtual utilizando o sistema operacional Linux Debian 13.
 
-Espero, sinceramente, que este material seja útil para você ou para alguém que possa se beneficiar dele.
+O material está sob a licença GPLv3, o que significa que você tem total liberdade para copiar, compartilhar, reproduzir e até adaptar às suas necessidades. Na verdade, ficarei muito feliz em saber que este material está sendo redistribuído e circulando por aí. Isso significa que o tempo que dediquei a escrever e documentar está sendo útil para outras pessoas, seja de forma integral ou conforme as suas necessidades.
+
+Mais do que um manual, este material é parte de um projeto pessoal: é uma forma de contribuir para a comunidade e facilitar o caminho de quem está começando nesse universo da TI e do software livre.
+
+Espero, sinceramente, que este material seja útil para você ou para alguém que conheça.
+
+Ah, caso queira propor melhorias no material ou enviar correções, ficarei feliz em recebê-las.
+
 
 "O conhecimento, quando não humaniza, deprava."
 
