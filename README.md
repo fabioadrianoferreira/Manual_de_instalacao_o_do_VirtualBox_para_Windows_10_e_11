@@ -16,12 +16,12 @@ Versão em pdf --> https://drive.google.com/file/d/1nkXI-tZ3lSps6o61vioc5E7V39CB
 
 
 ********************************************
-Links para baixar pelo crabgrass do riseup :
+Links para baixar pelo Crabgrass do Riseup :
 Versão em pdf --> https://crabgrass.riseup.net/assets/992482/Manual+de+instala%C3%A7%C3%A3o+do+VirtualBox+para+Windows+10+e+11+%281%29.pdf
 
 
 *******************************
-Links para baixar pelo zenodo :
+Links para baixar pelo Zenodo :
 Versão em pdf --> https://zenodo.org/records/21629119
 
 
